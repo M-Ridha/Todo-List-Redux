@@ -1,0 +1,97 @@
+.task {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    background:#00539CFF;
+    margin: 6px 4px;
+    height: 40px;
+    border-radius: 12px;
+    margin-left: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+
+.todo{
+    display: flex;
+    margin-top: 20px;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+    width: 50px;
+    
+}
+.ebtn{
+    margin-left: 11px;
+    color: rgb(22, 19, 19);
+    height: 40px;
+    border-radius: 12px;
+    background: rgba(13, 199, 69, 0.733);
+}
+
+.delbtn{
+    margin-left: 4px;
+    
+    color: rgb(22, 20, 20);
+    height: 40px;
+    border-radius: 12px;
+    background-color: crimson;
+    
+}
+
+.todo-form {
+    margin-bottom: 32px;
+}
+
+.todo-form {
+    margin-bottom: 32px;
+}
+
+
+
+
+input {
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #00539CFF;
+    outline: none;
+    width: 320px;
+    background:#00539CFF;
+    color: rgb(255, 255, 255);
+    
+}
+
+.todo-button {
+    padding: 16px;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(
+        90deg,
+        rgba(93, 12, 255, 1) 20%,
+        rgba(155, 0, 250, 1) 100%
+    );
+    color: #fff;
+    text-transform: capitalize;
+}
+
+h3{
+    margin: 32px 0;
+    color: #fff;
+    font-size: 24px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h4 {
+    color: cornsilk;
+}
+
+.fles{
+    margin-top: 20px;
+    
+}
